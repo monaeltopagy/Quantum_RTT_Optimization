@@ -20,9 +20,6 @@ The repository contains the full codebase, simulation models, and example output
 
 
 ---
-أكيد، ده الجزء الخاص بـ **How to Run the Codebase** في الـ `README`:
-
----
 
 ### **How to Run the Codebase**
 
@@ -54,110 +51,7 @@ To run the quantum-inspired RTT simulation:
 python src/quantum_rtt_simulation.py
 ```
 
----
 
-عايز أعدل اسم الريبو أو أي تفاصيل حسب المشروع الفعلي بتاعك؟أكيد، ده الجزء الخاص بـ **How to Run the Codebase** في الـ `README`:
-
----
-
-### **How to Run the Codebase**
-
-Follow the steps below to set up and run the project:
-
-#### **Step 1: Clone the Repository**  
-First, clone the repository from GitHub and navigate to the project folder:
-
-```bash
-git clone https://github.com/username/Quantum_RTT_Optimization.git
-cd Quantum_RTT_Optimization
-```
-
-#### **Step 2: Install Required Libraries**  
-Make sure you have Python 3.9+ installed. Then, install all the required libraries using:
-
-```bash
-pip install -r requirements.txt
-```
-
-#### **Step 3: Run the Code**  
-To run the classical RTT algorithm:  
-```bash
-python src/classical_rtt.py
-```
-
-To run the quantum-inspired RTT simulation:  
-```bash
-python src/quantum_rtt_simulation.py
-```
-
----
-
-عايز أعدل اسم الريبو أو أي تفاصيل حسب المشروع الفعلي بتاعك؟أكيد، ده الجزء الخاص بـ **How to Run the Codebase** في الـ `README`:
-
----
-
-### **How to Run the Codebase**
-
-Follow the steps below to set up and run the project:
-
-#### **Step 1: Clone the Repository**  
-First, clone the repository from GitHub and navigate to the project folder:
-
-```bash
-git clone https://github.com/username/Quantum_RTT_Optimization.git
-cd Quantum_RTT_Optimization
-```
-
-#### **Step 2: Install Required Libraries**  
-Make sure you have Python 3.9+ installed. Then, install all the required libraries using:
-
-```bash
-pip install -r requirements.txt
-```
-
-#### **Step 3: Run the Code**  
-To run the classical RTT algorithm:  
-```bash
-python src/classical_rtt.py
-```
-
-To run the quantum-inspired RTT simulation:  
-```bash
-python src/quantum_rtt_simulation.py
-```
-
----
-
-
-
-## **How to Run the Codebase**
-
-Follow the steps below to set up and run the project:
-
-### **Step 1: Clone the Repository**  
-Clone the repository from GitHub and navigate to the project folder:
-
-```bash
-git clone https://github.com/username/Quantum_RTT_Optimization.git
-cd Quantum_RTT_Optimization
-
-### **Step2: Install Required Libraries
-Ensure Python 3.9+ is installed, then install the necessary libraries:
-
-bash
-Copy code
-pip install -r requirements.txt
-Step 3: Run the Code
-To run the classical RTT algorithm:
-
-bash
-Copy code
-python src/classical_rtt.py
-To run the quantum-inspired RTT simulation:
-
-bash
-Copy code
-python src/quantum_rtt_simulation.py
 
 ---
 ## *Required Libraries*
